@@ -533,7 +533,7 @@ input[type="submit"][disabled] {
 .nav-wrapper a:focus,
 .nav-wrapper a:active {
   background-color: transparent;
-  color: #000;
+  color: #00.0;
   text-decoration: underline;
 }
 
