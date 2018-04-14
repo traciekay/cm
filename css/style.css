@@ -855,8 +855,13 @@ input[type="submit"][disabled] {
   background: rgba(0,0,0);
   border-top: 1px solid #000;
   margin-top: 60px;
-  padding: 90px 0;
+  padding: 60px 0;
   color: #FFF;
+}
+.form-check {
+    position: relative;
+    display: block;
+    padding-left: 6.25rem !important;
 }
 .footer p{
   text-align: center;
